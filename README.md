@@ -1,6 +1,6 @@
 # Cyber World
 
-# ![Cyber World])(EdsgerDijkstra.png)
+# ![Cyber World](EdsgerDijkstra.png)
 
 ## Table of Contents
 - [Learn](#learn)
