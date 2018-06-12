@@ -1,33 +1,52 @@
+
 # Cyber World
 
 # ![Cyber World](EdsgerDijkstra.png)
 
 ## Table of Contents
 - [Learn](#learn)
-    - [video Tutorials](#video-tutorials)
     - [Sites](#sites)
     - [Guides](#guides)
-        - [Networks](#networks)
+        - [Programming](#programming)
+        - [Computer Networks](#computer-networks)
         - [Web](#web)
         - [Storage and Databases](#storage-and-databases)
         - [Operating Systems](#operating-systems)
         - [Windows](#windows)
         - [Linux](#linux)
         - [Security](#security)
+            - [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
         - [Other](#other)
-- [Articles](#articles)
-- [YouTube channels](#youtube-channels)
-- [Blogs](#blogs)
-- [Projects](#projects)
-- [Training](#training)
+- [Resources](#resources)
+    - [Useful libraries, projects and more](#useful-libraries-projects-and-more) 
+    - [Articles](#articles)
+    - [YouTube channels](#youtube-channels)
+    - [Blogs](#blogs)
+- [Train](#train)
+    - [Projects](#projects)
     - [CTFs](#ctfs)
-- [Other Stuff](#other-stuff)
-    - [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
-- [Project ideas](#project-ideas)
+    
 
 ## Learn
 
-### Video Tutorials
+### Sites
+- [w3shcools](https://www.w3schools.com/)
+- [Codecademy](https://www.codecademy.com/)
+- [Free Code Camp](http://freecodecamp.com/)
+- [Codewars](https://www.codewars.com/)
+- [The Odin Project](http://www.theodinproject.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [CodeFights](https://codefights.com/)
+- [Upskill](https://upskillcourses.com)
+- [Khan Academy](https://www.khanacademy.org)
+
+### Guides
+
+#### Programming
+Great Github project all about learning new programming languages (beginner to expert):
+[curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources)
+
+<u>Video Tutorials</u>
 -   [General Programming](https://youtu.be/HRANU6KtNEs?list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch)
 -   [C++](https://youtu.be/z3mB3s8JZCs?list=PLOAuB8dR35ocZ2YtaGzhJetZqLW2J3s5Z)
 -   [C#](https://youtu.be/pSiIHe2uZ2w?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
@@ -45,20 +64,13 @@
     - [Unreal Engine](https://youtu.be/EFXMW_UEDco?list=PLZlv_N0_O1gY35ezlSQn1sWOGfh4C7ewO)
     - [LibGDX ](https://youtu.be/Huifd-C2KrI?list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy)
 
-### Sites
-- [Codecademy](https://www.codecademy.com/)
-- [Free Code Camp](http://freecodecamp.com/)
-- [Codewars](https://www.codewars.com/)
-- [The Odin Project](http://www.theodinproject.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [CodeFights](https://codefights.com/)
-- [Upskill](https://upskillcourses.com)
-- [Khan Academy](https://www.khanacademy.org)
+#### Computer Networks
 
-### Guides
-
-#### Networks
-- [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/), Written by Ruslan Spivak
+- [Computer Networking Playlist (YouTube)](https://www.youtube.com/watch?v=ueVnSz_lXEs&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO) by TheNewBoston
+- [Great Wireshark HowTo videos](https://www.youtube.com/user/thebitgirl) by TheBitGirl
+- [Wireshark tutorials and exercises](http://malware-traffic-analysis.net/index.html)
+- [Wireshark Network Forensics](https://www.youtube.com/watch?v=UXAHvwouk6Q) a sharkfest presentation
+- [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/) by Ruslan Spivak
 - [Building a basic HTTP server from scratch in Python](http://joaoventura.net/blog/2017/python-webserver/)
 
 #### Web
@@ -78,84 +90,8 @@
 - [Bitwise](https://github.com/pervognsen/bitwise) - An educational project to create a software/hardware stack for a computer from scratch.
 - [A TDD approach for building a simple microprocessor model in Python](http://joaoventura.net/blog/2017/simple-microprocessor/)
 
-#### Other
-- [Build Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
-- [Kilo: Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
-- [Learn Lua through building a game](https://github.com/SSYGEN/blog/issues/30)
-- [Build a Kick-Ass Mobile Document](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
-
-## Resources
-Name  |  Description
-----  |  ----
-[Awesome C](https://github.com/kozross/awesome-c) | A curated list of awesome C frameworks, libraries, resources and other shiny things.
-
-## Articles
-
-## YouTube Channels
-Name  |  Description
-----  |  ----
-[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | Lots of brief-to-medium isntructional vids, covering things like buffer overflwos and exploit writing, regular posts.
-[Hak5](https://www.youtube.com/user/Hak5Darren) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
-[Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) | entertaining videos about technology, including tech reviews, showcases and other content
-[techquickie](https://www.youtube.com/user/Techquickie) | Learn about the latest cool technology in only a couple minutes! 
-[numberphile](https://www.youtube.com/user/numberphile) | ideos about numbers - it's that simple. Videos by Brady Haran 
-[computerphile](https://www.youtube.com/user/Computerphile) | Videos all about computers and computer stuff. Sister channel of Numberphile.
-[iExplo1t](https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos) | lots of screenshot vids aimed at novices
-[HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | regular posts, medium length screenshot vids, with dialog
-[Sourcefire](https://www.youtube.com/user/SourcefireInc/featured) | lots of brief videos covering topics like botnets, DDoS ~5 minutes each
-
-
-## Blogs
-
-
-## Projects
-- [Beginner projects list](https://github.com/jorgegonzalez/beginner-projects)
-- [Mega Project List](https://github.com/karan/Projects)
-- [build your own x](https://github.com/danistefanovic/build-your-own-x/)
-
-
-## Training
-### CTFs
-Name    |    Description
-----    |    ----
-[OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp) | None
-[CTFLearn](https://ctflearn.com/) | an account-based ctf site, where users can go in and solve a range of challenges
-[CTFs write-ups](https://github.com/ctfs) | a collection of writeups from various CTFs, organized by
-[CTF365](https://ctf365.com/) | account based ctf site, awarded by Kaspersky, MIT, T-Mobile
-[Pentestit](https://lab.pentestit.ru/) | acocunt based  CTF site, users have to install open VPN and get credentials
-[Hacksplaining](https://www.hacksplaining.com/) | a clickthrough security informational site, very good for beginners.
-[The cryptopals crypto challenges](http://cryptopals.com/) | A bunch of CTF challenges, all focused on cryptography.
-[The enigma group](https://www.enigmagroup.org/) | web application security training, account based, video tutorials
-[Ringzer0 Team](https://ringzer0team.com/challenges) | an account based CTF site, hosting over 272 challenges
-[Hack The Box](https://www.hackthebox.gr/en/login) | Pen testing labs hosting over 39 vulnerable machines with two additional added every month
-[Over the wire](http://overthewire.org/wargames/) | A CTF that's based on progressive levels for each lab, the users SSH in, no account recquired
-[Backdoor](https://backdoor.sdslabs.co) | pen testing labs that have a space for beginners, a practice arena and various competitions, account required
-[Vulnhub](https://www.vulnhub.com/) | site hosts a ton of different vulnerable Virtual Machine images, download and get hacking
-[Hack.me](https://hack.me/) | lets you build/host/attack vulnerable web apps
-[Hack this site!](https://www.hackthissite.org/) | an oldy but goodie, account required, users start at low levels and progress in difficulty
-[Exploit exercises](https://exploit-exercises.com/) | hosts 5 fulnerable virtual machines for you to attack, no account required
-[PentesterLab](https://pentesterlab.com/) | hosts a variety of exercises as well as various "bootcamps" focused on specific activities
-[SmashTheStack](http://smashthestack.org/wargames.html) | hosts various challenges, similar to OverTheWire, users must SSH into the machines and progress in levels
-[PicoCTF](https://2017game.picoctf.com/) | CTF hosted by Carnegie Mellon, occurs yearly, account required.
-[Shellter Labs](https://shellterlabs.com/en/) | account based infosec labs, they aim at making these activities social
-[Pentest Practice](https://www.pentestpractice.com/) | account based Pentest practice, free to sign up, but there's also a pay-as-you-go feature
-[Pentest.training](https://pentest.training) | lots of various labs/VMS for you to try and hack, registry is optional.
-[pwnable.kr](http://pwnable.kr/) | Don't let the cartoon characters fool you, this is a serious CTF site that will teach you a lot, account required
-[pwnable.tw](http://pwnable.tw/) | hosts 27 challenges accompanied with writeups, account required
-[hackburger.ee](http://hackburger.ee/) | hosts a number of web hacking challenges, account required
-[http://noe.systems/](http://noe.systems/) | Korean challenge site, requires an account
-[Hacker Gateway](https://www.hackergateway.com/) | ctfs covering steganography, cryptography, and web challengs, account required
-[Solve Me](http://solveme.safflower.kr/) | "yet another challenge", account required.
-[Challenge Land](http://challengeland.co/) | Ctf site with a twist, no simple sign-up, you have to solve a challengeto even get that far!
-[Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1) | aims at creating a universal ranking for CTF participants
-[Hacker test](http://www.hackertest.net/) | similar to "hackthissite", no account required.
-[Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152) | a reverse engineering information Repo, started in 2003
-[ROP Emporium](https://ropemporium.com/) | Return Oriented Programming challenges
-[Google's XSS game](https://xss-game.appspot.com/) | XSS challenges, and potentially a chance to get paid!
-
-## Other Stuff
-
-### Reverse Engineering, Buffer Overflow and Exploit Development
+#### Security
+##### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
 ----    |    ----
 [Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
@@ -181,3 +117,76 @@ Name    |     Description
 [Megabeets journey into Radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/) | one user's radare2 tutorials
 [Introduction to ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/) | tons of tutorials from infosec pro Azeria, follow her on twitter
 [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/) | blog post by sploitfun, has 3 different levels
+
+#### Other
+- [Build Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
+- [Kilo: Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
+- [Learn Lua through building a game](https://github.com/SSYGEN/blog/issues/30)
+- [Build a Kick-Ass Mobile Document](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
+
+## Resources
+### Useful libraries, projects and more
+Name  |  Description
+----  |  ----
+[Awesome C](https://github.com/kozross/awesome-c) | A curated list of awesome C frameworks, libraries, resources and other shiny things.
+
+### YouTube Channels
+Name  |  Description
+----  |  ----
+[Treehouse](https://www.youtube.com/user/gotreehouse) | an online school that teaches technology. Treehouse has courses on hundreds of topics including how to build a website, how to build a web app, how to build a mobile app, and how to start a business
+[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | Lots of brief-to-medium isntructional vids, covering things like buffer overflwos and exploit writing, regular posts.
+[TheNewBoston](https://www.youtube.com/user/thenewboston/) | Tons of computer related tutorials
+[Hak5](https://www.youtube.com/user/Hak5Darren) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
+[The Coding Train](https://www.youtube.com/user/shiffman) | "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization
+[Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) | entertaining videos about technology, including tech reviews, showcases and other content
+[techquickie](https://www.youtube.com/user/Techquickie) | Learn about the latest cool technology in only a couple minutes! 
+[numberphile](https://www.youtube.com/user/numberphile) | ideos about numbers - it's that simple. Videos by Brady Haran 
+[computerphile](https://www.youtube.com/user/Computerphile) | Videos all about computers and computer stuff. Sister channel of Numberphile.
+[iExplo1t](https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos) | lots of screenshot vids aimed at novices
+[HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | regular posts, medium length screenshot vids, with dialog
+[Sourcefire](https://www.youtube.com/user/SourcefireInc/featured) | lots of brief videos covering topics like botnets, DDoS ~5 minutes each
+[Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) | focus on creating videos for aspiring ethical hackers, computer scientists, and the infosec community
+
+### Blogs
+
+### Articles
+
+
+## Train
+### Projects Ideas
+- [Beginner projects list](https://github.com/jorgegonzalez/beginner-projects)
+- [Mega Project List](https://github.com/karan/Projects)
+- [build your own x](https://github.com/danistefanovic/build-your-own-x/)
+
+### CTFs
+Name    |    Description
+----    |    ----
+[Vulnhub](https://www.vulnhub.com/) | site hosts a ton of different vulnerable Virtual Machine images, download and get hacking
+[Hack The Box](https://www.hackthebox.gr/en/login) | Pen testing labs hosting over 39 vulnerable machines with two additional added every month
+[Over the wire](http://overthewire.org/wargames/) | A CTF that's based on progressive levels for each lab, the users SSH in, no account recquired
+[Hack.me](https://hack.me/) | lets you build/host/attack vulnerable web apps
+[Hack this site!](https://www.hackthissite.org/) | an oldy but goodie, account required, users start at low levels and progress in difficulty
+[Google's XSS game](https://xss-game.appspot.com/) | XSS challenges, and potentially a chance to get paid!
+[Hacker test](http://www.hackertest.net/) | similar to "hackthissite", no account required.
+[Exploit exercises](https://exploit-exercises.com/) | hosts 5 fulnerable virtual machines for you to attack, no account required
+[PentesterLab](https://pentesterlab.com/) | hosts a variety of exercises as well as various "bootcamps" focused on specific activities
+[pwnable.tw](http://pwnable.tw/) | hosts 27 challenges accompanied with writeups, account required
+[pwnable.kr](http://pwnable.kr/) | Don't let the cartoon characters fool you, this is a serious CTF site that will teach you a lot, account required
+[Hacker Gateway](https://www.hackergateway.com/) | ctfs covering steganography, cryptography, and web challengs, account required
+[Pentest Practice](https://www.pentestpractice.com/) | account based Pentest practice, free to sign up, but there's also a pay-as-you-go feature
+[Pentest.training](https://pentest.training) | lots of various labs/VMS for you to try and hack, registry is optional.
+[hackburger.ee](http://hackburger.ee/) | hosts a number of web hacking challenges, account required
+[Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152) | a reverse engineering information Repo, started in 2003
+[SmashTheStack](http://smashthestack.org/wargames.html) | hosts various challenges, similar to OverTheWire, users must SSH into the machines and progress in levels
+[Hacksplaining](https://www.hacksplaining.com/) | a clickthrough security informational site, very good for beginners.
+[Ringzer0 Team](https://ringzer0team.com/challenges) | an account based CTF site, hosting over 272 challenges
+[Shellter Labs](https://shellterlabs.com/en/) | account based infosec labs, they aim at making these activities social
+[The cryptopals crypto challenges](http://cryptopals.com/) | A bunch of CTF challenges, all focused on cryptography.
+[The enigma group](https://www.enigmagroup.org/) | web application security training, account based, video tutorials
+[Pentestit](https://lab.pentestit.ru/) | acocunt based  CTF site, users have to install open VPN and get credentials
+[ROP Emporium](https://ropemporium.com/) | Return Oriented Programming challenges
+[OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp) | None
+[CTFLearn](https://ctflearn.com/) | an account-based ctf site, where users can go in and solve a range of challenges
+[CTFs write-ups](https://github.com/ctfs) | a collection of writeups from various CTFs, organized by
+[CTF365](https://ctf365.com/) | account based ctf site, awarded by Kaspersky, MIT, T-Mobile
+[Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1) | aims at creating a universal ranking for CTF participants
