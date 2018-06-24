@@ -19,11 +19,9 @@
         - [Other](#other)
 - [Resources](#resources)
     - [Useful libraries, projects and more](#useful-libraries-projects-and-more) 
-    - [Articles](#articles)
     - [YouTube channels](#youtube-channels)
-    - [Blogs](#blogs)
 - [Train](#train)
-    - [Projects](#projects)
+    - [Projects](#project-ideas)
     - [CTFs](#ctfs)
     
 
@@ -46,7 +44,7 @@
 Great Github project all about learning new programming languages (beginner to expert):
 [curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources)
 
-<u>Video Tutorials</u>
+*Video Tutorials:*
 -   [General Programming](https://youtu.be/HRANU6KtNEs?list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch)
 -   [C++](https://youtu.be/z3mB3s8JZCs?list=PLOAuB8dR35ocZ2YtaGzhJetZqLW2J3s5Z)
 -   [C#](https://youtu.be/pSiIHe2uZ2w?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
@@ -147,13 +145,8 @@ Name  |  Description
 [Sourcefire](https://www.youtube.com/user/SourcefireInc/featured) | lots of brief videos covering topics like botnets, DDoS ~5 minutes each
 [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) | focus on creating videos for aspiring ethical hackers, computer scientists, and the infosec community
 
-### Blogs
-
-### Articles
-
-
 ## Train
-### Projects Ideas
+### Project Ideas
 - [Beginner projects list](https://github.com/jorgegonzalez/beginner-projects)
 - [Mega Project List](https://github.com/karan/Projects)
 - [build your own x](https://github.com/danistefanovic/build-your-own-x/)
