@@ -16,6 +16,7 @@
         - [Linux](#linux)
         - [Security](#security)
             - [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
+        - [Git](#git)
         - [Other](#other)
 - [Resources](#resources)
     - [Useful libraries, projects and more](#useful-libraries-projects-and-more) 
@@ -43,6 +44,7 @@
 #### Programming
 Great Github project all about learning new programming languages (beginner to expert):
 [curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources)
+Find the Best Programming Courses & Tutorials using hackr.io
 
 *Video Tutorials:*
 -   [General Programming](https://youtu.be/HRANU6KtNEs?list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch)
@@ -116,6 +118,10 @@ Name    |     Description
 [Introduction to ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/) | tons of tutorials from infosec pro Azeria, follow her on twitter
 [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/) | blog post by sploitfun, has 3 different levels
 
+#### Git
+- [Learn Git with bitbucket cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+- [Learn Git Branching](https://learngitbranching.js.org/index.html)
+
 #### Other
 - [Build Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [Kilo: Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
@@ -159,14 +165,25 @@ Name    |    Description
 [Over the wire](http://overthewire.org/wargames/) | A CTF that's based on progressive levels for each lab, the users SSH in, no account recquired
 [Hack.me](https://hack.me/) | lets you build/host/attack vulnerable web apps
 [Hack this site!](https://www.hackthissite.org/) | an oldy but goodie, account required, users start at low levels and progress in difficulty
+[TryThis0ne](http://trythis0ne.com) | a free project that offers you to challenge yourself in different subjects, such as hacking, programming, cracking, reversing and much more…
+[hackr.org](https://www.hackr.org/) | Great CTF
 [Google's XSS game](https://xss-game.appspot.com/) | XSS challenges, and potentially a chance to get paid!
+[wechall](https://www.wechall.net/challs) | an index of other challenge sites. Sort of global ranking site for challengers.
 [Hacker test](http://www.hackertest.net/) | similar to "hackthissite", no account required.
+[Ma's reversing](http://3564020356.org/) | You think you're a hacker? You think you know everything that there is about computers? You love encryption and information hiding? Or do you just love brain-melting puzzles / riddles and everything is too easy for you? Then this site is for you
 [Exploit exercises](https://exploit-exercises.com/) | hosts 5 fulnerable virtual machines for you to attack, no account required
+[Stereotyped Chllenges](https://chall.stypr.com/) | war game for "offensive security experts who are willing to overcome situations of getting stuck in breaking into web services or web-based solutions"
+[Mod-X](http://www.mod-x.co.uk/main.php) | Mod-X is a fictional online game. In Mod-X you will become one of the Mod-X 'agents' and have to solve any tasks that the Mod-X team give you. As you will see the story revolves around a break in to some of the Mod-X systems, and you are the only one who can beat the intruder.
 [PentesterLab](https://pentesterlab.com/) | hosts a variety of exercises as well as various "bootcamps" focused on specific activities
 [pwnable.tw](http://pwnable.tw/) | hosts 27 challenges accompanied with writeups, account required
 [pwnable.kr](http://pwnable.kr/) | Don't let the cartoon characters fool you, this is a serious CTF site that will teach you a lot, account required
 [Hacker Gateway](https://www.hackergateway.com/) | ctfs covering steganography, cryptography, and web challengs, account required
+[gracker.org](http://gracker.org/) | Good Luck! the journey begins...
+[root-me](https://www.root-me.org/?lang=en) | The fast, easy, and affordable way to train your hacking skills.
+[ThisIsLegal](https://thisislegal.com/) |  a hacker wargames site with much more - such as forums and tutorials.
+[microcorruption.com](https://microcorruption.com/login) | Embedded Security CTF 
 [Pentest Practice](https://www.pentestpractice.com/) | account based Pentest practice, free to sign up, but there's also a pay-as-you-go feature
+[RoseCode](http://www.javaist.com/rosecode/) | Math and programming challenges
 [Pentest.training](https://pentest.training) | lots of various labs/VMS for you to try and hack, registry is optional.
 [hackburger.ee](http://hackburger.ee/) | hosts a number of web hacking challenges, account required
 [Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152) | a reverse engineering information Repo, started in 2003
