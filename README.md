@@ -172,7 +172,7 @@ Name    |    Description
 [Hacker test](http://www.hackertest.net/) | similar to "hackthissite", no account required.
 [Ma's reversing](http://3564020356.org/) | You think you're a hacker? You think you know everything that there is about computers? You love encryption and information hiding? Or do you just love brain-melting puzzles / riddles and everything is too easy for you? Then this site is for you
 [Exploit exercises](https://exploit-exercises.com/) | hosts 5 fulnerable virtual machines for you to attack, no account required
-[Stereotyped Chllenges](https://chall.stypr.com/) | war game for "offensive security experts who are willing to overcome situations of getting stuck in breaking into web services or web-based solutions"
+[Stereotyped Challenges](https://chall.stypr.com/) | war game for "offensive security experts who are willing to overcome situations of getting stuck in breaking into web services or web-based solutions"
 [Mod-X](http://www.mod-x.co.uk/main.php) | Mod-X is a fictional online game. In Mod-X you will become one of the Mod-X 'agents' and have to solve any tasks that the Mod-X team give you. As you will see the story revolves around a break in to some of the Mod-X systems, and you are the only one who can beat the intruder.
 [PentesterLab](https://pentesterlab.com/) | hosts a variety of exercises as well as various "bootcamps" focused on specific activities
 [pwnable.tw](http://pwnable.tw/) | hosts 27 challenges accompanied with writeups, account required
