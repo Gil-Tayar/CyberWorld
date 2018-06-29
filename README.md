@@ -94,6 +94,7 @@ Find the Best Programming Courses & Tutorials using hackr.io
 ##### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
 ----    |    ----
+[begin.re](https://www.begin.re/) | Reverse Engineering for Beginners
 [Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
 [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4) | Collection of Linux Rev. Engineering videos
 [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/) | intro course created by Malware Unicorn, complete with material and two VM's
