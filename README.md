@@ -169,6 +169,7 @@ Name    |    Description
 [TryThis0ne](http://trythis0ne.com) | a free project that offers you to challenge yourself in different subjects, such as hacking, programming, cracking, reversing and much more…
 [hackr.org](https://www.hackr.org/) | Great CTF
 [Google's XSS game](https://xss-game.appspot.com/) | XSS challenges, and potentially a chance to get paid!
+[Google's CTF 2018](https://capturetheflag.withgoogle.com/) | An archive of Google's CTF of 2018 with beginners tasks.
 [wechall](https://www.wechall.net/challs) | an index of other challenge sites. Sort of global ranking site for challengers.
 [Hacker test](http://www.hackertest.net/) | similar to "hackthissite", no account required.
 [Ma's reversing](http://3564020356.org/) | You think you're a hacker? You think you know everything that there is about computers? You love encryption and information hiding? Or do you just love brain-melting puzzles / riddles and everything is too easy for you? Then this site is for you
