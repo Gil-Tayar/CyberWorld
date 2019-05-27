@@ -139,7 +139,7 @@ Name  |  Description
 Name  |  Description
 ----  |  ----
 [Treehouse](https://www.youtube.com/user/gotreehouse) | an online school that teaches technology. Treehouse has courses on hundreds of topics including how to build a website, how to build a web app, how to build a mobile app, and how to start a business
-[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | Lots of brief-to-medium isntructional vids, covering things like buffer overflwos and exploit writing, regular posts.
+[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | Lots of brief-to-medium instructional vids, covering things like buffer overflows and exploit writing, regular posts.
 [TheNewBoston](https://www.youtube.com/user/thenewboston/) | Tons of computer related tutorials
 [Hak5](https://www.youtube.com/user/Hak5Darren) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
 [The Coding Train](https://www.youtube.com/user/shiffman) | "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization
