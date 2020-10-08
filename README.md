@@ -76,6 +76,7 @@ Find the Best Programming Courses & Tutorials using hackr.io
 
 #### Web
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/), Written by Shay Howe - A simple and comprehensive guide dedicated to helping beginners learn HTML and CSS.
+- [Learn JavaScript in 30 days](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 - [web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [build your own react](https://github.com/hexacta/didact)
 
